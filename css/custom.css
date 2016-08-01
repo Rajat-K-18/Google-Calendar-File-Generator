@@ -1,0 +1,7 @@
+#searchbox { 
+    -webkit-appearance: searchfield;
+}
+
+td {
+	white-space: nowrap;
+}
