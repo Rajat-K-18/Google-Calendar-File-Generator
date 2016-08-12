@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A simple claendar generator">
-    <meta name="author" content="Tushar Agarwal">
+    <meta name="author" content="Rajat">
     <title>Simple Calendar Generator</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/jquery.stepify.css" rel="stylesheet">
